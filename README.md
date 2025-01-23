@@ -12,6 +12,16 @@ A simple and efficient React-based Todo List application. This app allows users 
 - Task persistence using local storage.
 - Interactive notifications using `react-toastify`.
 
+## ScreenShot
+
+## DesktopView -
+
+<img src='./asset/desktop.png'  width="400" height="550"/> 
+
+## MobileView - 
+
+<img src="./desktopView.png" width="800" height="400"/>
+
 ## Installation
 
 1. Clone the repository:
