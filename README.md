@@ -16,11 +16,11 @@ A simple and efficient React-based Todo List application. This app allows users 
 
 ## DesktopView -
 
-<img src='./asset/desktop.png'  width="400" height="550"/> 
+<img src='./asset/desktop.png'  width="800" height="400"/> 
 
 ## MobileView - 
 
-<img src="./desktopView.png" width="800" height="400"/>
+<img src="./asset/mobile.png" width="400" height="550"/>
 
 ## Installation
 
